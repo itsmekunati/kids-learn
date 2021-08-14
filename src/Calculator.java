@@ -16,7 +16,7 @@ public class Calculator {
         int rem = number1 % number2;
 
 
-        System.out.println("Addition of " + number1+" and "+number2+ " is   : "+add);
+        System.out.println("Additions of " + number1+" and "+number2+ " is   : "+add);
         System.out.println("Substation of " + number1 + " and  "+number2 +" is : "+sub);
         System.out.println("Multiplication of "+ number1 + " and "+number2 +" is : "+mul);
         System.out.println("Division of  "+ number1 + " and   "+ number2 +" is : "+div);
